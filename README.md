@@ -1,4 +1,7 @@
-# awesome-bottom
+# Awesome Bottom
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A curated list of Bottom implementations and tooling.
 
 Reference implementation, in Rust: <https://github.com/kaylynn234/bottom> (and on crates.io, at <https://crates.io/crates/bottomify>)
