@@ -17,7 +17,7 @@ Reference implementation, in Rust: <https://github.com/kaylynn234/bottom> (and o
 - Java: <https://github.com/bottom-software-foundation/bottom-java> (docs at <https://bottom-software-foundation.github.io/bottom-java/>)
 - Elixir: <https://github.com/oliver-ni/bottom_ex>
 - Kotlin: <https://github.com/XuaTheGrate/bottom-kotlin>
-- C#: <https://github.com/bottom-software-foundation/bottom-.net>
+- C#: <https://github.com/bottom-software-foundation/bottom-dotnet>
 ## Other implementations
 - Web translator: <https://kaylynn234.github.io/bottom-web/> (WASM btw)
 - Powercord plugin: <https://github.com/SebbyLaw/power-bottom>
