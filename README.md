@@ -14,7 +14,7 @@ Reference implementation, in Rust: <https://github.com/kaylynn234/bottom> (and o
 - Python: <https://github.com/AlastairWoodbury/bottom-pure-py>
 - Haskell: <https://github.com/LyricLy/bottom-hs> (slow)
 - C: <https://github.com/LyricLy/bottom-c> (fast, but makes shortcuts and lacks a sophisticated CLI)
-- Java: <https://github.com/SebbyLaw/bottom-java> (docs at <https://sebbylaw.github.io/bottom-java/>)
+- Java: <https://github.com/bottom-software-foundation/bottom-java> (docs at <https://bottom-software-foundation.github.io/bottom-java/>)
 - Elixir: <https://github.com/oliver-ni/bottom_ex>
 - Kotlin: <https://github.com/XuaTheGrate/bottom-kotlin>
 ## Other implementations
