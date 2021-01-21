@@ -7,7 +7,7 @@ A curated list of Bottom implementations and tooling.
 Reference implementation, in Rust: <https://github.com/kaylynn234/bottom> (and on crates.io, at <https://crates.io/crates/bottomify>)
 
 ## Bindings
-- Python bindings: <https://github.com/uYert/bottom-py>
+- Python bindings: <https://github.com/bottom-software-foundation/bottom-py> (and on PyPi, at <https://pypi.org/project/bottomify/>)
 - Go bindings: <https://github.com/ncplayz/bottom-go> (requires Python and Rust)
 - Julia bindings: <https://github.com/NCPlayz/libbottomify-jl> (requires Python and Rust, may be unstable)
 ## Pure implementations
