@@ -13,7 +13,7 @@ Reference implementation, in Rust: <https://github.com/bottom-software-foundatio
 ## Pure implementations
 - C: <https://github.com/bottom-software-foundation/bottom-c> (fast, but makes shortcuts and lacks a sophisticated CLI)
 - C#: <https://github.com/bottom-software-foundation/bottom-dotnet>
-- Elixir: <https://github.com/bottom-software-foundation/bottom_ex>
+- Elixir: <https://github.com/bottom-software-foundation/bottom-ex>
 - Go: <https://github.com/bottom-software-foundation/bottom-go>
 - Java: <https://github.com/bottom-software-foundation/bottom-java> (docs at <https://bottom-software-foundation.github.io/bottom-java>)
 - Kotlin: <https://github.com/bottom-software-foundation/bottom-kotlin>
