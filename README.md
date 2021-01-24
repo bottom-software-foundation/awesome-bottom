@@ -18,6 +18,7 @@ Reference implementation, in Rust: <https://github.com/bottom-software-foundatio
 - Java: <https://github.com/bottom-software-foundation/bottom-java> (docs at <https://bottom-software-foundation.github.io/bottom-java>)
 - Kotlin: <https://github.com/bottom-software-foundation/bottom-kotlin>
 - Python: <https://github.com/bottom-software-foundation/bottom-py>
+- Wolfram Language: <https://github.com/numbermaniac/bottom-wl>
 ## Other implementations
 - A silly Python implementation: <https://github.com/bottom-software-foundation/oneline-bottom-py>
 - Powercord plugin: <https://github.com/bottom-software-foundation/power-bottom>
